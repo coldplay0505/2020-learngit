@@ -5,3 +5,4 @@ append GPL.
 understand how stage works.
 git track change of lines.
 creating a new branch is quick.
+add new line in readme in dev branch.
