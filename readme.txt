@@ -3,4 +3,4 @@ practice makes professional job.
 add new line.
 append GPL.
 understand how stage works.
-git track change.
+git track change of lines.
