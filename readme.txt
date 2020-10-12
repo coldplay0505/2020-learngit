@@ -2,3 +2,4 @@
 practice makes professional job.
 add new line.
 append GPL.
+understand how stage works.
