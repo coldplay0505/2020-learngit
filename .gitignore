@@ -17,4 +17,4 @@ deploy_key_rsa
 
 # no exclude .gitignore and hello.pyc
 !.gitignore
-!.hello.pyc
+!hello.pyc
